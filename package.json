@@ -5,8 +5,8 @@
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint lib",
-    "test": "ava",
-    "test:watch": "npm run test -- --watch",
+    "test": "nyc --reporter=lcov ava",
+    "test:watch": "ava --watch",
     "posttest": "npm run lint"
   },
   "repository": {
@@ -25,8 +25,10 @@
   "devDependencies": {
     "ava": "^0.19.1",
     "babel-core": "^6.24.1",
+    "coveralls": "^2.13.1",
     "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^11.2.0",
-    "eslint-plugin-import": "^2.2.0"
+    "eslint-plugin-import": "^2.2.0",
+    "nyc": "^10.3.2"
   }
 }
