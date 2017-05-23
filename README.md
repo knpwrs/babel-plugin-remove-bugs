@@ -1,5 +1,7 @@
 # babel-plugin-remove-bugs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/knpwrs/babel-plugin-remove-bugs.svg)](https://greenkeeper.io/)
+
 A Babel plugin which removes all bugs from your code.
 
 ## Usage
