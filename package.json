@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-remove-bugs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Babel plugin which removes all bugs from your code.",
   "main": "lib/index.js",
   "scripts": {
