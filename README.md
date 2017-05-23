@@ -63,6 +63,12 @@ following:
 
 No more bugs!
 
+## Limitations
+
+Being a Babel plugin, we can only remove bugs from files which Babel can parse.
+That said, this plugin is unable to fix syntax errors which cause Babel to
+crash.
+
 ## License
 
 MIT
