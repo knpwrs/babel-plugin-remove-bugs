@@ -1,5 +1,13 @@
 # babel-plugin-remove-bugs
 
+[![Dependency Status](https://img.shields.io/david/knpwrs/babel-plugin-remove-bugs.svg)](https://david-dm.org/knpwrs/babel-plugin-remove-bugs)
+[![devDependency Status](https://img.shields.io/david/dev/knpwrs/babel-plugin-remove-bugs.svg)](https://david-dm.org/knpwrs/babel-plugin-remove-bugs#info=devDependencies)
+[![Build Status](https://img.shields.io/travis/knpwrs/babel-plugin-remove-bugs.svg)](https://travis-ci.org/knpwrs/babel-plugin-remove-bugs)
+[![Code Coverage](https://img.shields.io/coveralls/knpwrs/babel-plugin-remove-bugs.svg)](https://coveralls.io/github/knpwrs/babel-plugin-remove-bugs)
+[![Npm Version](https://img.shields.io/npm/v/babel-plugin-remove-bugs.svg)](https://www.npmjs.com/package/babel-plugin-remove-bugs)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Badges](https://img.shields.io/badge/badges-7-orange.svg)](http://shields.io/)
+
 A Babel plugin which removes all bugs from your code.
 
 ## Usage
