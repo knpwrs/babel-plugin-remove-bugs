@@ -2,6 +2,7 @@
 
 [![Dependency Status](https://img.shields.io/david/knpwrs/babel-plugin-remove-bugs.svg)](https://david-dm.org/knpwrs/babel-plugin-remove-bugs)
 [![devDependency Status](https://img.shields.io/david/dev/knpwrs/babel-plugin-remove-bugs.svg)](https://david-dm.org/knpwrs/babel-plugin-remove-bugs#info=devDependencies)
+[![Greenkeeper badge](https://badges.greenkeeper.io/knpwrs/babel-plugin-remove-bugs.svg)](https://greenkeeper.io/)
 [![Build Status](https://img.shields.io/travis/knpwrs/babel-plugin-remove-bugs.svg)](https://travis-ci.org/knpwrs/babel-plugin-remove-bugs)
 [![Code Coverage](https://img.shields.io/coveralls/knpwrs/babel-plugin-remove-bugs.svg)](https://coveralls.io/github/knpwrs/babel-plugin-remove-bugs)
 [![Npm Version](https://img.shields.io/npm/v/babel-plugin-remove-bugs.svg)](https://www.npmjs.com/package/babel-plugin-remove-bugs)
