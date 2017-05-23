@@ -1,0 +1,32 @@
+{
+  "name": "babel-plugin-remove-bugs",
+  "version": "0.0.0",
+  "description": "A Babel plugin which removes all bugs from your code.",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint lib",
+    "test": "ava",
+    "test:watch": "npm run test -- --watch",
+    "posttest": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knpwrs/babel-plugin-remove-bugs.git"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "author": "Kenneth Powers <ken@kenpowers.net> (http://knpw.rs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knpwrs/babel-plugin-remove-bugs/issues"
+  },
+  "homepage": "https://github.com/knpwrs/babel-plugin-remove-bugs#readme",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "babel-core": "^6.24.1",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
