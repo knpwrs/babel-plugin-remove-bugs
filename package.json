@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/knpwrs/babel-plugin-remove-bugs#readme",
   "devDependencies": {
-    "ava": "^0.19.1",
+    "ava": "^0.20.0",
     "babel-core": "^6.24.1",
     "coveralls": "^2.13.1",
     "eslint": "^4.1.0",
